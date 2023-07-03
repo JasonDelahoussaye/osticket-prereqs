@@ -72,6 +72,10 @@ Before we finish, let's do some clean-up. Delete the "C:\inetpub\wwwroot\osTicke
 
 That's it! You're all set up with osTicket. Enjoy using it for your helpdesk needs!
 
+<hr>
+<h1><p align=center>All Done</p></h1>
+
+<h2><p align=center>Next Demonstration:<br><a href="h">osTicket - Post-Install Configuration</a></p></h2>
 
 
 
